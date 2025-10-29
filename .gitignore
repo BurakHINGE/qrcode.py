@@ -1,0 +1,45 @@
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam klasörleri
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# VS Code ayarları
+.vscode/
+.history/
+
+# Derleme çıktıları
+build/
+dist/
+*.egg-info/
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.bak
+*.swp
+
+# macOS ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpointleri (eğer varsa)
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Pytest cache
+.pytest_cache/
+
+# Local environment değişken dosyaları
+.env.local
+.env.*.local
