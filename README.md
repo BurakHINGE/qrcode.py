@@ -5,18 +5,39 @@
 
 ---
 
-## 📌 Versiyon Bilgisi | Version Info
-Geçerli Sürüm: **1.0.0**
-
+## 📌 Version Info | Versiyon Bilgisi 
 Current Version: **1.0.0**
+
+Geçerli Sürüm: **1.0.0**
 
 ---
 
 ## 🌐 Diller / Languages
-| Dil/Language | Dosya Adı/Filename | Açıklama/Description |
+| Language/Dil | Filename/Dosya Adı | Description/Açıklama |
 |-----------|-----|-------|
-| Türkçe | [tr_qrcode.py](tr_qrcode.py) | Metinden QR kodu oluşturur |
 | English | Coming Soon... | English version coming soon... |
+| Türkçe | [tr_qrcode.py](tr_qrcode.py) | Metinden QR kodu oluşturur |
+
+
+---
+
+## 🇬🇧 English 
+---
+
+## About
+This project is a simple **QR code generator** application written in **Python**.  
+It uses the `qrcode` library to generate a QR code from any given text or URL.  
+The generated QR code is saved automatically as `QRCode.png` in the project directory.
+
+### Requirements
+- Python 3.x
+- `qrcode` library  
+- Any code editor (such as VS Code, PyCharm, etc.)
+
+### Installation  
+```bash
+git clone https://github.com/BurakHINGE/qrcode.py.git
+```
 
 ---
 
@@ -38,32 +59,16 @@ QR kod, `QRCode.png` adıyla proje dizinine kaydedilir.
 git clone https://github.com/BurakHINGE/qrcode.py.git
 ```
 
-
-## 🇬🇧 English 
 ---
 
-## About
-This project is a simple **QR code generator** application written in **Python**.  
-It uses the `qrcode` library to generate a QR code from any given text or URL.  
-The generated QR code is saved automatically as `QRCode.png` in the project directory.
-
-### Requirements
-- Python 3.x
-- `qrcode` library  
-- Any code editor (such as VS Code, PyCharm, etc.)
-
-### Installation  
-```bash
-git clone https://github.com/BurakHINGE/qrcode.py.git
-```
-
-## 📌 Sürüm Geçmişi / Version History
+## 📌 Version History / Sürüm Geçmişi 
 
 ### v1.0.0 (2025-09-20) 
-- Temel QR kod oluşturma işlevi tamamlandı. / Implemented basic QR code generation functionality.
+- Implemented basic QR code generation functionality. / Temel QR kod oluşturma işlevi tamamlandı.
 
 ---
 
 ## 📄 Lisans / License
-Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
+
