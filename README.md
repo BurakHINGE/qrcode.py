@@ -6,16 +6,16 @@
 ---
 
 ## 📌 Version Info | Versiyon Bilgisi 
-Current Version: **1.0.0**
+Current Version: **1.1.0**
 
-Geçerli Sürüm: **1.0.0**
+Geçerli Sürüm: **1.1.0**
 
 ---
 
 ## 🌐 Diller / Languages
 | Language/Dil | Filename/Dosya Adı | Description/Açıklama |
 |-----------|-----|-------|
-| English | Coming Soon... | English version coming soon... |
+| English | [eng_qrcode.py](eng_qrcode.py) | Make QR code with text |
 | Türkçe | [tr_qrcode.py](tr_qrcode.py) | Metinden QR kodu oluşturur |
 
 
@@ -62,6 +62,9 @@ git clone https://github.com/BurakHINGE/qrcode.py.git
 ---
 
 ## 📌 Version History / Sürüm Geçmişi 
+
+### v1.1.0 (2025-11-20)
+- English version of the code added. / Koda İngilizce sürüm eklendi.
 
 ### v1.0.0 (2025-09-20) 
 - Implemented basic QR code generation functionality. / Temel QR kod oluşturma işlevi tamamlandı.
