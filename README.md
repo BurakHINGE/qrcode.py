@@ -12,7 +12,7 @@ Geçerli Sürüm: **2.0.0**
 
 ---
 
-## 🌐 Diller / Languages
+## 🌐 Languages / Diller
 | Language/Dil | Filename/Dosya Adı | Description/Açıklama |
 |-----------|-----|-------|
 | English | [eng_qrcode.py](eng_qrcode.py) | Make QR code with text |
@@ -74,7 +74,7 @@ git clone https://github.com/BurakHINGE/qrcode.py.git
 
 ---
 
-## 📄 Lisans / License
+## 📄 License / Lisans
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 
