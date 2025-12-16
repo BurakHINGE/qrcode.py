@@ -6,9 +6,9 @@
 ---
 
 ## 📌 Version Info | Versiyon Bilgisi 
-Current Version: **1.1.0**
+Current Version: **2.0.0**
 
-Geçerli Sürüm: **1.1.0**
+Geçerli Sürüm: **2.0.0**
 
 ---
 
@@ -62,6 +62,9 @@ git clone https://github.com/BurakHINGE/qrcode.py.git
 ---
 
 ## 📌 Version History / Sürüm Geçmişi 
+
+### v2.0.0 (2025-12-16)
+- File extension problem has been solved. / Dosya uzantısı sorunu çözüldü.
 
 ### v1.1.0 (2025-11-20)
 - English version of the code added. / Koda İngilizce sürüm eklendi.
